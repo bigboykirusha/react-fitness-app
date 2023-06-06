@@ -1,5 +1,6 @@
 import AnchorLink from "react-anchor-link-smooth-scroll";
 import React from "react";
+// @ts-ignore
 import { SelectedPage } from "@/shared/types.ts";
 
 type Props = {

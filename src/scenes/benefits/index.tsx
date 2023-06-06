@@ -1,6 +1,6 @@
 import ActionButton from "@/shared/ActionButton";
 import HText from "@/shared/HText";
-import { BenefitType, SelectedPage } from "@/shared/types";
+import { BenefitType, SelectedPage } from "@/shared/types.ts";
 import {
   HomeModernIcon,
   UserGroupIcon,
